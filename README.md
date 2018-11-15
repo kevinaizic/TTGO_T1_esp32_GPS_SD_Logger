@@ -22,7 +22,6 @@
  - enable trigger for "dump" command to keep awake, pair to a phone, and read back the SD card over bluetooth (control and read SD card without removing)
   - better file handling: new file at some interval, just append a number--as long as there's a clear sequence and nothing is rewritten to
  - optimize for battery, sense voltage and implement warnings or safe shutdown, *possibly* solar power
- - AES encrypt data in transit with ATECC508A on i2c to store symmetric key, fill box with resin and trebuchet into space... 
  - probably just keep it in my car   
  
 Based on:
